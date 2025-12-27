@@ -4,11 +4,11 @@
 As a Data Analyst and Power BI expert, I have led impactful business intelligence (BI) projects to enhance commercial performance and operational efficiency at five major airports in Brazil, collaborating with global companies such as VINCI Airports and AENA. Currently, I am consulting and mentoring in the Advanced Analytics team at Dataside, where I have worked on strategic pricing and e-commerce projects for Unilever and led the migration of Tableau dashboards to Power BI for Hyundai Motors Brazil.
 
 ## Notable Achievements:
-‣ Delivered more than 15 BI projects using Power BI
-‣ Generated over BRL 25M in savings through BI projects
-‣ Achieved a 94.3% reduction in Power BI consumption through model and DAX optimization
-‣ Supported commercial and operational performance improvements across five major airports in Brazil
-‣ Delivered analytics solutions for PepsiCo, Unilever (pricing & e-commerce intelligence) and Hyundai Motors Brazil (full dashboard migration from Tableau to Power BI)
+- Delivered more than 15 BI projects using Power BI
+- Generated over BRL 25M in savings through BI projects
+- Achieved a 94.3% reduction in Power BI consumption through model and DAX optimization
+- Supported commercial and operational performance improvements across five major airports in Brazil
+- Delivered analytics solutions for PepsiCo, Unilever (pricing & e-commerce intelligence) and Hyundai Motors Brazil (full dashboard migration from Tableau to Power BI)
 
 ## Technical Skills
 
