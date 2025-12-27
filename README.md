@@ -51,6 +51,23 @@ Data Analyst and PowerBI Developer @ Dataside
 - Mentored a team of 11+ data analysts, providing hands-on training in Excel, SQL and Power BI enhancing team proficiency, analytical thinking and overall project delivery quality.
 - Led end-to-end migration projects of BI solutions from Tableau to Power BI, redesigning data models, reports and governance workflows to Microsoft's ecosystem, assuring scalability, integrity and cost efficiency.
 
+Data Analyst and PowerBI Developer @ Orbe Experience
+- Spearheaded end-to-end business intelligence project with Microsoft Power BI improving operational visibility and data-driven decision-making across multiple airport operations.
+- Restored service quality standard of third-party airport service providers by analyzing operational data, satisfaction surveys, and ground handling performance identifying and address key bottlenecks, resulting in improved compliance with SLA's and higher passenger satisfaction.
+- Developed analytical solutions with Microsoft Power BI to align airport service quality indicators with contractual SLA's, monitoring operational and financial KPI's, which generated accumulated savings and performance bonuses totaling approximately R$ 13.6 million.
+- Migrated legacy excel-based data analysis solutions to Microsoft Power BI, developing automated reports and workflows that streamlined reporting and reduced processing and analysis time.
+- Implemented a sales inspection project for airport project for airport sub-concessionaires, auditing records and uncovering discrepancies totaling around R$ 6.9 million.
+- Developed a data analysis project focused on aircraft turnaround operations, identifying key bottlenecks through the process, which contributed to reducing total ground time and improved airport efficiency.
+
+Civil Engineering @ Caixa Economica Federal
+- Analyzed civil maintenance and logistics data from outsourced service providers across Bahia, Sergipe and Alagoas states, consolidating information from 637 units, achieving improved maintenance planning, high levels of SLA's and operational oversight.
+- Improved SLAs of outsourced HVAC maintenance companies by conducting performance analyses and implementing data-driven decision process, which enhanced operational reliability and compliance with service standards.
+
+Civil Engineering @ DAG Construtora
+- Developed the process of budgeting, planning and control of public infrastructure works.
+- Performed monitoring of key indicators of planning, control and execution of works.
+- Analyzed data to perform pareto analysis, balance lines and added value in order to estimate cost performance, values and deadlines of civil engineering works.
+
 ## Projects & Portfolio
 [Turnaround Analysis For Airlines](https://github.com/raoliveirads/turnaround-project)
 
