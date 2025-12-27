@@ -1,6 +1,32 @@
 # Data Analyst
 
+### Skills
+- SQL
+- PowerBI
+- Excel
+- Python
+- Pandas
+- Numpy
+- Matplotlib
+- Seaborn
+- Scikit-Learn
+- Statsmodels
+- ML Flow
+- FastAPI
+- Streamlit
+- Docker
+- Databricks
+- Tabular Editor
+- DAX Studio
+- SQL Server Management Studio (SSMS)
+- ALM Toolkit
+- Vertipaq Analyzer
+- Figma
+
 ### Education
+- Bachelor of Science in Civil Engineering - Universidade Salvador (2012 to 2017)
+- Technologist in Computer Networks - Universidade Salvador (2009 to 2011)
+- Specialization in Management and Technology - Senai CIMATEC (Unfinished)
 
 ### Work Experience
 Data Analyst and PowerBI Developer @ Dataside
@@ -13,4 +39,13 @@ Data Analyst and PowerBI Developer @ Dataside
 ### Projects
 [Turnaround Analysis For Airlines](https://github.com/raoliveirads/turnaround-project)
 
-### Skills
+### Bootcamps & Trainings
+- Data Scientist Training – Data Science Academy (2025)
+- Machine Learning Specialization – Stanford Online (2025)
+- MLOps Bootcamp - Udemy(2025)
+
+### Professional Certifications
+- Power BI Data Analyst Associated (PL 300) – Microsoft (2024) – Active.
+- Azure AI Fundamentals (AI 900) – Microsoft (2025) – Active.
+- Google Data Analytics Professional Certificate – Coursera (2023)
+- Data Modeling for Power BI – SQLBI (2022)
