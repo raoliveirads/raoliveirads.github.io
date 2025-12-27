@@ -11,6 +11,6 @@ Data Analyst and PowerBI Developer @ Dataside
 - Led end-to-end migration projects of BI solutions from Tableau to Power BI, redesigning data models, reports and governance workflows to Microsoft's ecosystem, assuring scalability, integrity and cost efficiency.
 
 ### Projects
-- Turnaround Analysis For Airlines
+[Turnaround Analysis For Airlines](https://github.com/raoliveirads/turnaround-project)
 
 ### Skills
