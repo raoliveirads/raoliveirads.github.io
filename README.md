@@ -1,7 +1,11 @@
 # Data Analyst
 
 ### Skills
-- SQL | PowerBI | Excel | Python | Pandas | Numpy | Matplotlib | Seaborn | Scikit-Learn | Statsmodels | ML Flow | FastAPI | Streamlit | Docker | Databricks | Tabular Editor | DAX Studio | SQL Server Management Studio (SSMS) | ALM Toolkit | Vertipaq Analyzer | Figma
+Technical Skills: 
+SQL | PowerBI | Excel | Python | Pandas | Numpy | Matplotlib | Seaborn
+Scikit-Learn | Statsmodels | ML Flow | FastAPI | Streamlit | Docker 
+Databricks | Tabular Editor | DAX Studio | SQL Server Management Studio (SSMS) 
+ALM Toolkit | Vertipaq Analyzer | Figma
 
 ### Education
 - Bachelor of Science in Civil Engineering - Universidade Salvador (2012 to 2017)
