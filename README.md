@@ -31,7 +31,12 @@ As a Data Analyst and Power BI expert, I have led impactful business intelligenc
 **Design & Prototyping**
 - Figma
 
-## Soft Skills 
+## Soft Skills
+- Critical Thinking & Problem-Solving
+- Attention to Detail
+- Curiosity and Continuous Learning
+- Time Management, Collaboration, and Teamwork
+- Business Acumen & Communication
 
 ## Education
 - Bachelor of Science in Civil Engineering - Universidade Salvador (2012 to 2017)
@@ -46,7 +51,7 @@ Data Analyst and PowerBI Developer @ Dataside
 - Mentored a team of 11+ data analysts, providing hands-on training in Excel, SQL and Power BI enhancing team proficiency, analytical thinking and overall project delivery quality.
 - Led end-to-end migration projects of BI solutions from Tableau to Power BI, redesigning data models, reports and governance workflows to Microsoft's ecosystem, assuring scalability, integrity and cost efficiency.
 
-## Projects
+## Projects & Portfolio
 [Turnaround Analysis For Airlines](https://github.com/raoliveirads/turnaround-project)
 
 ## Bootcamps & Trainings
