@@ -83,10 +83,12 @@ Turnaround is one of the most critical processes in airport operations, as it di
 ### Data Analytics & Power BI
 **Spend Analysis**
 
-![Power BI Dashboard](images/Spend1.png)
 <p align="justify">
 This Power BI project delivered an interactive expense analysis dashboard that provides consolidated visibility into company spending, which is essential for large multinational organizations to control costs, monitor key financial indicators, and support data-driven decisions across multiple regions and cost centers. By centralizing data and enabling real-time monitoring of expenses and performance, the solution helped identify inefficiencies and optimization opportunities, resulting in a fictitious return on investment (ROI) of approximately 18% within the first year.
 </p>
+
+![Power BI Dashboard](images/Spend1.png)
+![Power BI Dashboard](images/Spend2.png)
 
 ## Bootcamps & Trainings
 - Data Scientist Training – Data Science Academy (2025)
