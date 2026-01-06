@@ -73,9 +73,17 @@ Currently transitioning from Data Analyst to Data Scientist, applying machine le
 - Analyzed data to perform pareto analysis, balance lines and added value in order to estimate cost performance, values and deadlines of civil engineering works.
 
 ## Projects & Portfolio
+
+### Data Science & Machine Learning
 [Turnaround Analysis For Airlines](https://github.com/raoliveirads/turnaround-project)
 <p align="justify">
 Turnaround is one of the most critical processes in airport operations, as it directly affects the efficiency, punctuality, and profitability of airlines. This term refers to the time required for an aircraft to complete all ground activities between landing and the next takeoff. The faster and more efficient this process is, the lower the operational costs and the greater the airport’s capacity to handle a higher volume of flights. Optimizing turnaround reduces delays, improves punctuality, and increases operational efficiency, positively impacting the reputation of both airlines and airports. Moreover, a well-managed turnaround enables better fleet utilization, contributing to the sustainability of the aviation sector.
+</p>
+
+### Data Analytics & Power BI
+![Power BI Dashboard](images/Spend1.png)
+<p align="justify">
+This Power BI project delivered an interactive expense analysis dashboard that provides consolidated visibility into company spending, which is essential for large multinational organizations to control costs, monitor key financial indicators, and support data-driven decisions across multiple regions and cost centers. By centralizing data and enabling real-time monitoring of expenses and performance, the solution helped identify inefficiencies and optimization opportunities, resulting in a fictitious return on investment (ROI) of approximately 18% within the first year.
 </p>
 
 ## Bootcamps & Trainings
