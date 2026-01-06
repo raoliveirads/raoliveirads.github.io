@@ -72,6 +72,17 @@ Currently transitioning from Data Analyst to Data Scientist, applying machine le
 - Performed monitoring of key indicators of planning, control and execution of works.
 - Analyzed data to perform pareto analysis, balance lines and added value in order to estimate cost performance, values and deadlines of civil engineering works.
 
+## Bootcamps & Trainings
+- Data Scientist Training – Data Science Academy (2025)
+- Machine Learning Specialization – Stanford Online (2025)
+- MLOps Bootcamp - Udemy(2025)
+
+## Professional Certifications
+- Power BI Data Analyst Associated (PL 300) – Microsoft (2024) – Active.
+- Azure AI Fundamentals (AI 900) – Microsoft (2025) – Active.
+- Google Data Analytics Professional Certificate – Coursera (2023)
+- Data Modeling for Power BI – SQLBI (2022)
+
 ## Projects & Portfolio
 
 ### Data Science & Machine Learning
@@ -84,19 +95,28 @@ Turnaround is one of the most critical processes in airport operations, as it di
 **Spend Analysis**
 
 <p align="justify">
-This Power BI project delivered an interactive expense analysis dashboard that provides consolidated visibility into company spending, which is essential for large multinational organizations to control costs, monitor key financial indicators, and support data-driven decisions across multiple regions and cost centers. By centralizing data and enabling real-time monitoring of expenses and performance, the solution helped identify inefficiencies and optimization opportunities, resulting in a fictitious return on investment (ROI) of approximately 18% within the first year.
+This Power BI project delivered an interactive expense analysis dashboard that provides consolidated visibility into company spending, which is essential for large multinational organizations to control costs, monitor key financial indicators, and support data-driven decisions across multiple regions and cost centers. By centralizing data and enabling real-time monitoring of expenses and performance, the solution helped identify inefficiencies and optimization opportunities, resulting in a return on investment (ROI) of approximately 18% within the first year.
 </p>
 
 ![Power BI Dashboard](images/Spend1.png)
 ![Power BI Dashboard](images/Spend2.png)
 
-## Bootcamps & Trainings
-- Data Scientist Training – Data Science Academy (2025)
-- Machine Learning Specialization – Stanford Online (2025)
-- MLOps Bootcamp - Udemy(2025)
+**Purchase Analysis**
 
-## Professional Certifications
-- Power BI Data Analyst Associated (PL 300) – Microsoft (2024) – Active.
-- Azure AI Fundamentals (AI 900) – Microsoft (2025) – Active.
-- Google Data Analytics Professional Certificate – Coursera (2023)
-- Data Modeling for Power BI – SQLBI (2022)
+<p align="justify">
+This Power BI project delivered an interactive purchasing analysis dashboard that provides consolidated visibility into procurement data, which is essential for large organizations to control purchasing activities, monitor key procurement indicators, and support data-driven decisions across multiple suppliers, categories, and business units. By centralizing purchase data and enabling near real-time tracking of spend, supplier performance, and price variations, the solution helped identify inefficiencies, negotiate better terms, and optimize sourcing strategies, resulting in a return on investment (ROI) of approximately 20% within the first year.
+</p>
+
+![Power BI Dashboard](images/Purchase1.png)
+![Power BI Dashboard](images/Purchase2.png)
+![Power BI Dashboard](images/Purchase3.png)
+
+**Satisfaction Survey Analysis**
+
+<p align="justify">
+This Power BI project delivered an interactive satisfaction survey dashboard designed to analyze feedback from students, faculty, and staff, supporting a university during its expansion across Brazil. Consolidating survey data into a single analytical view enabled leadership to monitor key satisfaction indicators, compare results across campuses and regions, and identify critical improvement opportunities. By providing timely insights into academic quality, infrastructure, and student experience, the solution supported more informed strategic decisions and continuous improvement initiatives, resulting in a return on investment (ROI) of approximately 15% within the first year through improved retention, engagement, and operational efficiency.
+</p>
+
+![Power BI Dashboard](images/Survey1.png)
+![Power BI Dashboard](images/Survey2.png)
+![Power BI Dashboard](images/Survey3.png)
