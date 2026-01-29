@@ -9,7 +9,7 @@ Currently transitioning from Data Analyst to Data Scientist, applying machine le
 </p>
 
 ## Notable Achievements:
-- Delivered more than 15 BI projects using Power BI
+- Delivered more than 25 BI projects using Power BI
 - Generated over BRL 25M in savings through BI projects
 - Achieved a 94.3% reduction in Power BI consumption through model and DAX optimization
 - Supported commercial and operational performance improvements across five major airports in Brazil
@@ -45,32 +45,28 @@ Currently transitioning from Data Analyst to Data Scientist, applying machine le
 ## Education
 - Bachelor of Science in Civil Engineering - Universidade Salvador (2012 to 2017)
 - Technologist in Computer Networks - Universidade Salvador (2009 to 2011)
-- Specialization in Management and Technology - Senai CIMATEC (Unfinished)
 
 ## Work Experience
 **Data Analyst and PowerBI Developer @ Dataside**
-- Led over 15 data projects with Microsoft Power BI, executing end-to-end solutions, which improved data accessibility and decision-making efficiency across multiple business units.
+- Led over 25 data projects with Microsoft Power BI, executing end-to-end solutions, which improved data accessibility and decision-making efficiency across multiple business units.
 - Optimized large-scale tabular models in Power BI environments with external tools to fine-tune performance and semantic models, reducing resource consumption and data processing time by up to 94,3%.
 - Collaborated with Engineering and Data Governance teams on cross-functional projects, implementing data validation workflows and compliance standards, strengthening quality, security and data integrity.
 - Mentored a team of 11+ data analysts, providing hands-on training in Excel, SQL and Power BI enhancing team proficiency, analytical thinking and overall project delivery quality.
-- Led end-to-end migration projects of BI solutions from Tableau to Power BI, redesigning data models, reports and governance workflows to Microsoft's ecosystem, assuring scalability, integrity and cost efficiency.
+- Led enterprise-wide BI migration from Tableau to Microsoft Fabric/Power BI, successfully transitioning 25+ reports and 30+ datasets within 5-month deadline while delivering substantial licensing cost savings
 
 **Data Analyst and PowerBI Developer @ Orbe Experience**
-- Spearheaded end-to-end business intelligence project with Microsoft Power BI improving operational visibility and data-driven decision-making across multiple airport operations.
-- Restored service quality standard of third-party airport service providers by analyzing operational data, satisfaction surveys, and ground handling performance identifying and address key bottlenecks, resulting in improved compliance with SLA's and higher passenger satisfaction.
-- Developed analytical solutions with Microsoft Power BI to align airport service quality indicators with contractual SLA's, monitoring operational and financial KPI's, which generated accumulated savings and performance bonuses totaling approximately R$ 13.6 million.
-- Migrated legacy excel-based data analysis solutions to Microsoft Power BI, developing automated reports and workflows that streamlined reporting and reduced processing and analysis time.
-- Implemented a sales inspection project for airport project for airport sub-concessionaires, auditing records and uncovering discrepancies totaling around R$ 6.9 million.
-- Developed a data analysis project focused on aircraft turnaround operations, identifying key bottlenecks through the process, which contributed to reducing total ground time and improved airport efficiency.
+- Spearheaded Power BI migration at Salvador Airport (VINCI Airports), replacing Excel-based analyses with automated KPI monitoring that delivered BRL 13.6M in annual contract bonuses and penalty avoidance
+- Designed revenue monitoring system for airport retail concessionaires, providing predictive analytics that increased commercial revenues by BRL 7M annually through optimized leasing decisions and forecasting
+- Reduced aircraft turnaround time by 12 minutes through root-cause analysis of ground services, unlocking 8% capacity increase without capital investment
+- Implemented airline SLA monitoring across passenger touchpoints (check-in, baggage, security), driving 20% improvement in passenger satisfaction scores through data-driven accountability
+- Partnered with cross-functional stakeholders across airport operations, airlines, retail, and executive leadership to drive operational improvements through data analytics
 
 **Civil Engineering @ Caixa Economica Federal**
-- Analyzed civil maintenance and logistics data from outsourced service providers across Bahia, Sergipe and Alagoas states, consolidating information from 637 units, achieving improved maintenance planning, high levels of SLA's and operational oversight.
-- Improved SLAs of outsourced HVAC maintenance companies by conducting performance analyses and implementing data-driven decision process, which enhanced operational reliability and compliance with service standards.
+- Increased maintenance SLA from 63% to 85% across 637 branches in 3 states by developing data-driven prioritization methodology that combined maintenance planning with inspection reports, enabling shift from reactive to preventive maintenance
 
 **Civil Engineering @ DAG Construtora**
-- Developed the process of budgeting, planning and control of public infrastructure works.
-- Performed monitoring of key indicators of planning, control and execution of works.
-- Analyzed data to perform pareto analysis, balance lines and added value in order to estimate cost performance, values and deadlines of civil engineering works.
+- Managed end-to-end construction budgeting and planning processes including quantity take-offs, cost estimation, WBS creation, and performance tracking using S-curves and completion forecasts
+- Built predictive model using simple linear regression on historical precipitation data to estimate working day impacts, differentiating between outdoor and indoor activities to improve construction schedule reliability
 
 ## Bootcamps & Trainings
 - Data Scientist Training – Data Science Academy (2025)
