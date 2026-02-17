@@ -2,18 +2,18 @@
 
 ## About Me
 <p align="justify">
-As a Data Analyst and Power BI expert, I have led impactful business intelligence (BI) projects to enhance commercial performance and operational efficiency at five major airports in Brazil, collaborating with global companies such as VINCI Airports and AENA. Currently, I am consulting and mentoring in the Advanced Analytics team at Dataside, where I have worked on strategic pricing and e-commerce projects for Unilever and led the migration of Tableau dashboards to Power BI for Hyundai Motors Brazil.
+Senior Data Analyst, BI Developer, and aspiring Data Scientist with 6+ years architecting end-to-end enterprise-scale analytics solutions. Specialized in Power BI development, advanced DAX optimization, Semantic Model performance tuning, and cloud data platforms, with a proven track record of generating BRL 45M+ ($11M+ USD) in documented value for Fortune 500 clients including VINCI Airports, AENA, Unilever, Hyundai Motors, and PepsiCo.
 
-
-Currently transitioning from Data Analyst to Data Scientist, applying machine learning techniques through personal projects and MVPs. Gaining end-to-end experience in creating, deploying and monitoring machine learning models.
+Currently expanding into Machine Learning and AI, combining production analytics experience with Python programming, statistical modeling, and modern ML frameworks.
 </p>
 
 ## Notable Achievements:
-- Delivered more than 25 BI projects using Power BI
-- Generated over BRL 25M in savings through BI projects
-- Achieved a 94.3% reduction in Power BI consumption through model and DAX optimization
-- Supported commercial and operational performance improvements across five major airports in Brazil
-- Delivered analytics solutions for PepsiCo, Unilever (pricing & e-commerce intelligence) and Hyundai Motors Brazil (full dashboard migration from Tableau to Power BI)
+- Led 25+ end-to-end BI implementations across retail, FMCG, automotive, and aviation sectors
+- Architected high-performance semantic models achieving 94.3% reduction in query execution time
+- Migrated 25+ Tableau dashboards and Datasets to Power BI and Microsoft Fabric, delivering $100K+ in annual cost savings
+- Improved airport operations SLA compliance from 72% to 94%, generating BRL 13.6M in savings
+- Reduced aircraft turnaround time by 12 minutes through process mining (8% capacity increase)
+- Mentored 11+ analysts, accelerating project delivery by 50%
 
 ## Technical Skills
 **Data & Analytics**
@@ -21,14 +21,15 @@ Currently transitioning from Data Analyst to Data Scientist, applying machine le
 - Python (Pandas, NumPy, Matplotlib, Seaborn)  
 
 **Machine Learning & Statistics**
-- Scikit-learn • Statsmodels • MLflow  
+- Supervised Learning • Unsupervised Learning
+- Scikit-learn • Statsmodels • XGBoost • Ensemble • Feature Engineering
 
 **APIs, Apps & Deployment**
-- FastAPI • Streamlit • Docker  
+- FastAPI • Streamlit • Docker • Git & Github • MLflow
 
 **Data Platforms & BI Tools**
-- Databricks  
-- Tabular Editor • DAX Studio  
+- Databricks • Azure • AWS
+- Tabular Editor • DAX Studio • ALM Toolkit
 - SQL Server Management Studio (SSMS)  
 - ALM Toolkit • VertiPaq Analyzer  
 
