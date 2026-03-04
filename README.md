@@ -48,7 +48,9 @@ Currently applying Machine Learning and AI, combining production analytics exper
 - Technologist in Computer Networks - Universidade Salvador (2009 to 2011)
 
 ## Work Experience
-**Data Analyst and PowerBI Developer @ Dataside**
+**Data Scientist and Senior Data Analyst @ Dataside**
+- Supported the development of a machine learning model to predict customer purchase likelihood from transaction data, contributing to targeted marketing campaigns that achieved a 5% conversion rate increase.
+- Created a Machine Learning forecasting model to optimize ATM replenishment processes, predicting demand and reducing unnecessary trips, generating up to 15% reduction in operational costs and rework.
 - Led over 25 data projects with Microsoft Power BI, executing end-to-end solutions, which improved data accessibility and decision-making efficiency across multiple business units.
 - Optimized large-scale tabular models in Power BI environments with external tools to fine-tune performance and semantic models, reducing resource consumption and data processing time by up to 94,3%.
 - Collaborated with Engineering and Data Governance teams on cross-functional projects, implementing data validation workflows and compliance standards, strengthening quality, security and data integrity.
