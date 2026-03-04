@@ -2,9 +2,9 @@
 
 ## About Me
 <p align="justify">
-Senior Data Analyst, BI Developer, and aspiring Data Scientist with 6+ years architecting end-to-end enterprise-scale analytics solutions. Specialized in Power BI development, advanced DAX optimization, Semantic Model performance tuning, and cloud data platforms, with a proven track record of generating BRL 45M+ ($11M+ USD) in documented value for Fortune 500 clients including VINCI Airports, AENA, Unilever, Hyundai Motors, and PepsiCo.
+Senior Data Analyst, BI Developer, and Data Scientist with 6+ years architecting end-to-end enterprise-scale analytics solutions. Specialized in Power BI development, advanced DAX optimization, Semantic Model performance tuning, and cloud data platforms, with a proven track record of generating BRL 45M+ ($11M+ USD) in documented value for Fortune 500 clients including VINCI Airports, AENA, Unilever, Hyundai Motors, and PepsiCo.
 
-Currently expanding into Machine Learning and AI, combining production analytics experience with Python programming, statistical modeling, and modern ML frameworks.
+Currently applying Machine Learning and AI, combining production analytics experience with Python programming, statistical modeling, and modern ML frameworks.
 </p>
 
 ## Notable Achievements:
