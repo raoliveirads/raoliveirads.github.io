@@ -2,12 +2,12 @@
 
 ## About Me
 <p align="justify">
-Senior Data Analyst, BI Developer, and Data Scientist with 6+ years architecting end-to-end enterprise-scale analytics solutions. Specialized in Power BI development, advanced DAX optimization, Semantic Model performance tuning, and cloud data platforms, with a proven track record of generating BRL 45M+ ($11M+ USD) in documented value for Fortune 500 clients including VINCI Airports, AENA, Unilever, Hyundai Motors, and PepsiCo.
-
-Currently applying Machine Learning and AI, combining production analytics experience with Python programming, statistical modeling, and modern ML frameworks.
+Data Scientist with over 6 years of experience in data-driven projects, applying statistical techniques and Machine Learning algorithms to solve business problems. Experienced in building, validating, and deploying predictive models, working across the full lifecycle. Background across Airports, Supply Chain, Pricing, Marketing, Sales, and the Automotive Industry. Developed customer propensity models (5% increase in conversion rate) and forecasting models to optimize ATM replenishment (15% reduction in operational costs).
 </p>
 
 ## Notable Achievements:
+- Development of a ML–based customer propensity model that enabled targeted marketing campaigns, driving a 5% increase in conversion rates.   
+- Designed  Machine Learning model to optimize ATM replenishment through demand forecasting, achieving up to a 15% reduction in operational costs.
 - Led 25+ end-to-end BI implementations across retail, FMCG, automotive, and aviation sectors
 - Architected high-performance semantic models achieving 94.3% reduction in query execution time
 - Migrated 25+ Tableau dashboards and Datasets to Power BI and Microsoft Fabric, delivering $100K+ in annual cost savings
@@ -48,9 +48,11 @@ Currently applying Machine Learning and AI, combining production analytics exper
 - Technologist in Computer Networks - Universidade Salvador (2009 to 2011)
 
 ## Work Experience
-**Data Scientist and Senior Data Analyst @ Dataside**
+**Data Scientist @ Dataside**
 - Supported the development of a machine learning model to predict customer purchase likelihood from transaction data, contributing to targeted marketing campaigns that achieved a 5% conversion rate increase.
 - Created a Machine Learning forecasting model to optimize ATM replenishment processes, predicting demand and reducing unnecessary trips, generating up to 15% reduction in operational costs and rework.
+
+**Senior Data Analyst @ Dataside**
 - Led over 25 data projects with Microsoft Power BI, executing end-to-end solutions, which improved data accessibility and decision-making efficiency across multiple business units.
 - Optimized large-scale tabular models in Power BI environments with external tools to fine-tune performance and semantic models, reducing resource consumption and data processing time by up to 94,3%.
 - Collaborated with Engineering and Data Governance teams on cross-functional projects, implementing data validation workflows and compliance standards, strengthening quality, security and data integrity.
