@@ -92,6 +92,12 @@ Data Scientist with over 6 years of experience in data-driven projects, applying
 Turnaround is one of the most critical processes in airport operations, as it directly affects the efficiency, punctuality, and profitability of airlines. This term refers to the time required for an aircraft to complete all ground activities between landing and the next takeoff. The faster and more efficient this process is, the lower the operational costs and the greater the airport’s capacity to handle a higher volume of flights. Optimizing turnaround reduces delays, improves punctuality, and increases operational efficiency, positively impacting the reputation of both airlines and airports. Moreover, a well-managed turnaround enables better fleet utilization, contributing to the sustainability of the aviation sector.
 </p>
 
+[Credit Score](https://github.com/raoliveirads/credit-scoring))
+<p align="justify">
+Project focused on building a credit scoring model to predict default risk using machine learning techniques applied to financial data. The project covers the full analytical pipeline, including exploratory data analysis, data preprocessing, feature engineering, and model training and evaluation.
+The goal is to support credit decision making by turning data into actionable insights and predictive models that estimate customer risk more accurately. This is a critical application in the financial sector, where credit scoring helps improve and automate lending decisions.
+</p>
+
 ### Data Analytics & Power BI
 **Spend Analysis**
 
