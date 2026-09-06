@@ -54,6 +54,7 @@
   .proj.on{border-bottom-color:#9BA8AB}
   .proj.on img{filter:invert(1) brightness(1)}
   .proj.on span{color:#CCD0CF}
+  .proj:hover span{color:#CCD0CF}
 
   .shot{display:block;aspect-ratio:16/11;overflow:hidden;background:#11212D;cursor:zoom-in;opacity:0.85;transition:opacity .2s}
   .shot:hover{opacity:1}
@@ -398,7 +399,7 @@
     });
     renderProject();
   }
-  famWrap.addEventListener('mouseover', function (e) {
+  famWrap.addEventListener('click', function (e) {
     var t = e.target.closest('.proj'); if (t) pickProject(+t.dataset.i);
   });
   famWrap.addEventListener('focusin', function (e) {
