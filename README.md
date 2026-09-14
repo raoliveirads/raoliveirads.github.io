@@ -2,7 +2,7 @@
 
 ## About Me
 <p align="justify">
-Data Scientist with over 6 years of experience in data-driven projects, applying statistical techniques and Machine Learning algorithms to solve business problems. Experienced in building, validating, and deploying predictive models, working across the full lifecycle. Background across Airports, Supply Chain, Pricing, Marketing, Sales, and the Automotive Industry. Developed customer propensity models (5% increase in conversion rate) and forecasting models to optimize ATM replenishment (15% reduction in operational costs).
+Data Scientist with over 7 years of experience in data-driven projects, applying statistical techniques and Machine Learning algorithms to solve business problems. Experienced in building, validating, and deploying predictive models, working across the full lifecycle. Background across Airports, Supply Chain, Pricing, Marketing, Sales, and the Automotive Industry. Developed customer propensity models (5% increase in conversion rate) and forecasting models to optimize ATM replenishment (15% reduction in operational costs).
 </p>
 
 ## Notable Achievements:
