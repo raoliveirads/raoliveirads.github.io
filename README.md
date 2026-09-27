@@ -4,7 +4,7 @@
 [Portfolio](https://raoliveirads.github.io) · [LinkedIn](https://www.linkedin.com/in/renanammaral/) · Salvador, Brazil · Open to Data Science, ML and AI roles (remote or Salvador)
 
 ## About Me
-Data Scientist focused on Machine Learning and Generative AI, with 6+ years turning data into business decisions — from predictive models to LLM-based solutions. My analytics and business background means I build models stakeholders understand and actually use — not just models that score well in a notebook.
+Data Scientist focused on Machine Learning and Generative AI, with 7+ years turning data into business decisions — from predictive models to LLM-based solutions. My analytics and business background means I build models stakeholders understand and actually use — not just models that score well in a notebook.
 
 ## Currently at Indicium AI
 - **AI agents in healthcare:** working on a live AI agent solution — validating outputs from 3 agents against medical records across 10+ hospitals, prompt evaluation, reviewing dbt models and BigQuery queries, and implementing prompt context caching to reduce cost and latency.
