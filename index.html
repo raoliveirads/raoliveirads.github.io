@@ -285,7 +285,7 @@
   var PROJECTS = [
     ['AI & Machine Learning', 'Finance \u00b7 Credit Risk', 'Credit Scoring Model',
       'End-to-end default prediction on 150K customers with imbalanced classes (6.7% defaults). Feature engineering with IV/WoE produced the model\u2019s top 3 SHAP features; Logistic Regression, Random Forest and XGBoost benchmarked with cross-validation; decision threshold optimized to lift F1 from 0.34 to 0.45 (+33%); fairness checked across age and income groups.',
-      'XGBoost \u00b7 SHAP \u00b7 MLflow \u00b7 Streamlit \u00b7 ROC-AUC 0.87 \u00b7 KS 0.58', 'https://github.com/raoliveirads/credit-scoring', null],
+      'XGBoost \u00b7 SHAP \u00b7 MLflow \u00b7 Streamlit \u00b7 ROC-AUC 0.87 \u00b7 KS 0.58', 'https://github.com/raoliveirads/credit-scoring', null, 'https://credit-scoring-renan.streamlit.app/'],
     ['AI & Machine Learning', 'Retail \u00b7 Forecasting & GenAI', 'Demand Forecasting & RAG Assistant',
       'End-to-end project on Databricks (Indicium AI Lighthouse program). Regression models benchmarked against a moving-average baseline to forecast 3-month demand per product and store, plus a RAG assistant over project documentation with PII masking and prompt-injection guardrails. Medallion architecture in PySpark and dbt, deployed with CI/CD.',
       'Databricks \u00b7 PySpark \u00b7 dbt \u00b7 Vector Search \u00b7 21% lower forecast error \u00b7 95% RAG answer accuracy', null, null],
@@ -389,7 +389,10 @@
       '<p style="font-weight:600;font-size:clamp(1.45rem,2.4vw,1.95rem);line-height:1.14;letter-spacing:-0.03em;color:#CCD0CF;text-wrap:balance">' + esc(p[2]) + '</p>' +
       '<p style="font-size:1rem;line-height:1.7;color:#9BA8AB;max-width:52ch;text-wrap:pretty">' + esc(p[3]) + '</p>' +
       '<p class="mono" style="font-size:12px;letter-spacing:0.04em;color:#4A5C6A">' + esc(p[4]) + '</p>' +
-      (p[5] ? '<a href="' + esc(p[5]) + '" target="_blank" rel="noopener" class="mono" style="align-self:flex-start;margin-top:4px;font-size:11.5px;letter-spacing:0.12em;text-transform:uppercase;color:#CCD0CF;border-bottom:1px solid #4A5C6A;padding-bottom:3px">View repository \u2197</a>' : '') +
+      ((p[5] || p[7]) ? '<div style="display:flex;flex-wrap:wrap;gap:12px 26px;margin-top:4px">' +
+        (p[7] ? '<a href="' + esc(p[7]) + '" target="_blank" rel="noopener" class="mono" style="font-size:11.5px;letter-spacing:0.12em;text-transform:uppercase;color:#CCD0CF;border-bottom:1px solid #4A5C6A;padding-bottom:3px">Live demo \u2197</a>' : '') +
+        (p[5] ? '<a href="' + esc(p[5]) + '" target="_blank" rel="noopener" class="mono" style="font-size:11.5px;letter-spacing:0.12em;text-transform:uppercase;color:#CCD0CF;border-bottom:1px solid #4A5C6A;padding-bottom:3px">View repository \u2197</a>' : '') +
+      '</div>' : '') +
       '</div>';
     var right = list.length
       ? '<div style="flex:1 1 360px;min-width:0;display:grid;grid-template-columns:repeat(' + list.length + ',minmax(0,1fr));gap:8px;align-self:flex-start">' +
